@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Debt Settlement
     description                           : Wondering who owes whom? Check Mate provides a detailed breakdown, making it crystal clear who needs to settle up with whom.
-    fontawesome_icon_name                 : people-arrows
+    fontawesome_icon_name                 : exchange-alt
 
   - title                                 : Sharing Bill Details
     description                           : Easily share a comprehensive bill report with all participants, including a clear summary of who owes money to whom. No more confusion or disputes!
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Bills List
     description                           : Keep track of your expenses effortlessly. Check Mate stores a history of all your bills, so you can review your spending anytime, anywhere.
-    fontawesome_icon_name                 : clock-rotate-left
+    fontawesome_icon_name                 : history
   
   - title                                 : Dark Mode
     description                           : Scan smarter, even after dark!
